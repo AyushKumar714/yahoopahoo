@@ -1,0 +1,25 @@
+h1 {
+    font-size: 50px;
+    color: aqua;
+    font-family: cursive;
+}
+
+img {
+    height: 700px;
+    width: 900px;
+}
+
+.drawing {
+    background color: aquamarine
+}
+
+.menu {
+    list-style: none;
+    font-family: monospace;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    font-size: 50px;
+}
